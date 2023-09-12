@@ -1,13 +1,3 @@
+你好，这里是速盘云（深圳）科技有限公司，免费开源项目负责人：Wogiao 我将代表我司开源部分已弃用的项目。
 
-<html>
-  <body>
-    <h>
-      <big>
-        PTB|Octopus Studio 
-        </big>
-      </h>
-    </body>
-    </html>
-    
-    
     
